@@ -1,0 +1,19 @@
+{
+  "name": "node-web-app",
+  "version": "1.0.0",
+  "description": "TP4",
+  "main": "server6.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "voila",
+    "start": "node server6.js"
+  },
+  "author": "Imen Haddad",
+  "license": "ISC"
+}
